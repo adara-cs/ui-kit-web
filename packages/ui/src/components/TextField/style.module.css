@@ -130,6 +130,11 @@
     outline: none;
 }
 
+.inputWrapper:has(.input:focus-visible) {
+    outline-offset: 0;
+    outline: 3px solid var(--focus-color);
+}
+
 .input::placeholder {
     color: var(--neutral-500);
 }
