@@ -252,8 +252,8 @@ importers:
         specifier: ^3.2.1
         version: 3.2.1(@maskito/core@3.2.1)(@maskito/kit@3.2.1(@maskito/core@3.2.1))(libphonenumber-js@1.11.19)
       '@maskito/react':
-        specifier: ^3.2.1
-        version: 3.2.1(@maskito/core@3.2.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^3.4.0
+        version: 3.4.0(@maskito/core@3.2.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       libphonenumber-js:
         specifier: ^1.11.19
         version: 1.11.19
@@ -973,10 +973,10 @@ packages:
       '@maskito/kit': ^3.2.1
       libphonenumber-js: '>=1.0.0'
 
-  '@maskito/react@3.2.1':
-    resolution: {integrity: sha512-qTBDYARpGGxXPU2pLBwSkzw7nLox/5z+sMCTUD7/HgYuAR9TJrmZP2MCyQQgqxTeOLNn5NOTgJWfaqIsSOuTvw==}
+  '@maskito/react@3.4.0':
+    resolution: {integrity: sha512-0Pv5zWbodC9mbF9Ev4nGXM894DnYb8fOWFfhbewLE8yH7UXtjQLa0Rj0EMYWzzMcHweTYcMZ7Zt/lmnOT8R5pw==}
     peerDependencies:
-      '@maskito/core': ^3.2.1
+      '@maskito/core': ^3.4.0
       react: '>=16.8'
       react-dom: '>=16.8'
 
@@ -3955,7 +3955,7 @@ snapshots:
       '@maskito/kit': 3.2.1(@maskito/core@3.2.1)
       libphonenumber-js: 1.11.19
 
-  '@maskito/react@3.2.1(@maskito/core@3.2.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@maskito/react@3.4.0(@maskito/core@3.2.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@maskito/core': 3.2.1
       react: 19.0.0
