@@ -57,7 +57,7 @@
     "check-types": "tsc --noEmit"
   },
   "peerDependencies": {
-    "react": "^19.0.0",
+    "react": "^19.1.0",
     "react-dom": "^19.0.0"
   },
   "dependencies": {
@@ -70,13 +70,13 @@
     "@maskito/react": "^3.4.0",
     "@maskito/kit": "^3.4.0",
     "libphonenumber-js": "^1.11.19",
-    "react": "^19.0.0",
+    "react": "^19.1.0",
     "react-dom": "^19.0.0",
     "react-remove-scroll": "^2.6.3"
   },
   "devDependencies": {
     "@testing-library/react": "^16.1.0",
-    "@types/react": "^19.0.10",
+    "@types/react": "^19.1.2",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react": "^4.3.4",
     "globals": "^16.0.0",
